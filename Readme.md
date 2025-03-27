@@ -2,7 +2,7 @@
 # SS-GEN: A Social Story Generation Framework with Large Language Models
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI2025-green)](https://arxiv.org/pdf/2406.15695)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: OpenRAIL](https://img.shields.io/badge/License-OpenRAIL-red)](https://huggingface.co/spaces/BigScience/OpenRAIL)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-blue)](link-to-dataset-if-any)
 
 ## 🧠 Introduction

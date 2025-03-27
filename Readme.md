@@ -1,5 +1,5 @@
 
-# SS-GEN: A Social Story Generation Framework with Large Language Models
+# SS-GEN: A Social Story Generation Framework with Large Language Models (AAAI 2025 Oral)
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI2025-green)](https://arxiv.org/pdf/2406.15695)
 [![License: OpenRAIL](https://img.shields.io/badge/License-OpenRAIL-red)](https://huggingface.co/spaces/BigScience/OpenRAIL)
@@ -76,10 +76,10 @@ ds = load_dataset("FMiMiY/SS-GEN")
 ```
 📂 SS-GEN/
 ├── SS-GEN Dataset/         # Dataset (Available now)
-├── model/                 # Coming soon
-├── code /               # Coming soon
+├── model/                  # Coming soon
+├── code /                  # Coming soon
 ├── README.md
-├── Technical Appendix.pdf  # Details includ Prompt templates for GPT
+├── Technical Appendix.pdf  # Details includ Prompt templates
 └── ...
 ```
 
